@@ -6,4 +6,4 @@ Result:
 
 Rules come throught nesting of components and styled leaves at the bottom of the tree:
 
-![Screenshot](https://www.github.com/ichyr/styles-jsx/images/yaktocat.png)
+![Screenshot](https://github.com/ichyr/styles-jsx/blob/clean-urls-ssr/images/yaktocat.png?raw=true)
