@@ -7,3 +7,7 @@ Result:
 Rules come throught nesting of components and styled leaves at the bottom of the tree:
 
 ![Screenshot](https://github.com/ichyr/styles-jsx/blob/clean-urls-ssr/images/yaktocat.png?raw=true)
+
+Added more generic test
+
+![Screenshot2](https://github.com/ichyr/styles-jsx/blob/clean-urls-ssr/images/yakocat2.png?raw=true)

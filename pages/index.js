@@ -1,6 +1,8 @@
 import Layout from '../components/MyLayout.js'
 import Linker from '../components/Linker.js'
 
+import Test from './test.js'
+
 function getPosts () {
   return [
     { id: 'hello-nextjs', title: 'Hello Next.js'},
@@ -11,6 +13,7 @@ function getPosts () {
 
 export default () => (
   <Layout>
+    <Test />
     <h1>My Blog</h1>
     <div>
       <ul>
