@@ -1,7 +1,7 @@
-function BlockA(props) {
+function BlockC(props) {
     return (
         <span>
-            <span>1: {props.children}</span>
+            <span>2: {props.children}</span>
             <style jsx> {`
 				span {
 					color: red
@@ -12,4 +12,4 @@ function BlockA(props) {
     )
 };
 
-export default BlockA
+export default BlockC
